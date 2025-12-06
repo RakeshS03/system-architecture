@@ -1,0 +1,15 @@
+org\example\Jmhdemo$WorkerA.class
+org\example\Jmhdemo$WorkerB.class
+org\example\jmh_generated\Jmhdemo_jmhType.class
+org\example\jmh_generated\Jmhdemo_jmhType_B2.class
+org\example\jmh_generated\Jmhdemo_reflectionDispatch_jmhTest.class
+org\example\jmh_generated\Jmhdemo_jmhType_B3.class
+org\example\jmh_generated\Jmhdemo_randomDispatch_jmhTest.class
+org\example\Jmhdemo$WorkerD.class
+org\example\jmh_generated\Jmhdemo_staticPath_jmhTest.class
+org\example\Jmhdemo.class
+META-INF\BenchmarkList
+org\example\Jmhdemo$Worker.class
+META-INF\CompilerHints
+org\example\Jmhdemo$WorkerC.class
+org\example\jmh_generated\Jmhdemo_jmhType_B1.class

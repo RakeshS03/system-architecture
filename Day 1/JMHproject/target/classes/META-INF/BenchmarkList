@@ -1,0 +1,3 @@
+JMH S 19 org.example.Jmhdemo S 56 org.example.jmh_generated.Jmhdemo_randomDispatch_jmhTest S 14 randomDispatch S 11 AverageTime E A 1 1 1 E I 1 5 E E I 1 8 E E I 1 2 E E E E E E U 11 NANOSECONDS E E 
+JMH S 19 org.example.Jmhdemo S 60 org.example.jmh_generated.Jmhdemo_reflectionDispatch_jmhTest S 18 reflectionDispatch S 11 AverageTime E A 1 1 1 E I 1 5 E E I 1 8 E E I 1 2 E E E E E E U 11 NANOSECONDS E E 
+JMH S 19 org.example.Jmhdemo S 52 org.example.jmh_generated.Jmhdemo_staticPath_jmhTest S 10 staticPath S 11 AverageTime E A 1 1 1 E I 1 5 E E I 1 8 E E I 1 2 E E E E E E U 11 NANOSECONDS E E 
