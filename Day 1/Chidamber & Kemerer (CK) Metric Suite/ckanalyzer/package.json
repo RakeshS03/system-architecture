@@ -1,0 +1,19 @@
+{
+  "name": "ck-analyzer",
+  "version": "1.0.0",
+  "description": "CK analyzer",
+  "main": "analyzer.ts",
+  "scripts": {
+    "analyze": "ts-node analyzer.ts"
+  },
+  "dependencies": {
+    "ts-morph": "^27.0.2"
+  },
+  "devDependencies": {
+    "ts-node": "^10.9.2",
+    "typescript": "^5.9.3"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
