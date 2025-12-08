@@ -1,0 +1,18 @@
+{
+  "name": "ts-madge-dep-grapher",
+  "version": "1.0.0",
+  "description": "Dependency Grapher using Madge",
+  "type": "commonjs",
+  "scripts": {
+    "start": "ts-node src/index.ts",
+    "graph": "ts-node src/index.ts"
+  },
+  "dependencies": {
+    "madge": "^6.0.0"
+  },
+  "devDependencies": {
+    "typescript": "^5.0.0",
+    "ts-node": "^10.9.2",
+    "@types/node": "^20.0.0"
+  }
+}
