@@ -1,19 +1,17 @@
 {
-  "name": "ck-analyzer",
+  "name": "ckanalyzer",
   "version": "1.0.0",
-  "description": "CK analyzer",
-  "main": "analyzer.ts",
+  "description": "CK Metric Analyzer using ts-morph",
+  "main": "dist/analyzer.js",
   "scripts": {
-    "analyze": "ts-node analyzer.ts"
+    "build": "tsc",
+    "start": "node dist/analyzer.js src/poordesign.ts"
   },
   "dependencies": {
-    "ts-morph": "^27.0.2"
+    "ts-morph": "^20.0.0"
   },
   "devDependencies": {
-    "ts-node": "^10.9.2",
-    "typescript": "^5.9.3"
-  },
-  "keywords": [],
-  "author": "",
-  "license": "ISC"
+    "@types/node": "^24.10.1",
+    "typescript": "^5.3.0"
+  }
 }
